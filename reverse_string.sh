@@ -6,3 +6,4 @@ echo "The reverse of the given string is $(echo $string | rev)"
 echo "time stamp $(date)" >> log
 echo "Today is wednesday"
 echo "Tomorrow is thursday"
+echo "this is jenkins"
