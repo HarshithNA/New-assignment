@@ -7,3 +7,4 @@ echo "time stamp $(date)" >> log
 echo "adding a new line"
 echo "This is assignment and making changes to this file"
 echo "we have QA on jenkins"
+echo "visual code studio"
